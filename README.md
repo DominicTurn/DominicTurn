@@ -4,8 +4,8 @@
 ## What I’m Working On
 
 **ReEntry Compass**
-I’m building a mobile-first SaaS tool designed to help returning citizens navigate housing, employment, healthcare, legal aid, and other critical resources.  
-It’s being built from lived experience, with a focus on privacy, clarity, and real-world use by nonprofits and agencies.
+
+I’m building a mobile-first SaaS tool designed to help returning citizens navigate housing, employment, healthcare, legal aid, and other critical resources.  It’s being built from lived experience, with a focus on privacy, clarity, and real-world use by nonprofits and agencies.
 
 
 ## The Why
