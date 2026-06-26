@@ -23,6 +23,10 @@ After returning home from prison in December 2024, I made a decision to focus on
 - SSH, firewalls, system hardening
 - Networking basics (DNS, DHCP, TCP/IP)
 - Active Directory fundamentals
+- SQL
+- Git & GitHub
+- PostgreSQL
+- Flask
 
 
 ## What You’ll See in This GitHub
