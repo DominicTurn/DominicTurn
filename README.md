@@ -3,14 +3,15 @@
 
 ## What I’m Working On
 
-**ReEntry Compass**
+**ReEntry Job Translator**
 
-I’m building a mobile-first SaaS tool designed to help returning citizens navigate housing, employment, healthcare, legal aid, and other critical resources.  It’s being built from lived experience, with a focus on privacy, clarity, and real-world use by nonprofits and agencies.
+A free tool that helps returning citizens translate prison work assignments into employer-ready resume bullets, skills, and interview language.
 
 
 ## The Why
 
-After returning home from prison in December 2024, I made a decision to focus on discipline, consistency, and learning skills that actually create opportunity. I’m teaching myself IT, networking, cybersecurity, and software development while building real tools not just tutorials or throwaway projects.
+When I came home after nearly 12 years, I had years of real work experience, but had no idea how to explain it on a resume. ReEntry Job Translator was built to solve that problem. That problem became the foundation for ReEntry Job Translator. The goal is simple: help returning citizens explain the work they already did without having to start from a blank page.
+
 
 ## Tools & Skills I’m Learning
 
