@@ -1,4 +1,4 @@
-## How you doing?
+## Hi, I'm Dominic Turner
 
 
 ## What I’m Working On
