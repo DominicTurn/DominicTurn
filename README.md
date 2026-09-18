@@ -1,42 +1,43 @@
-## Hi, I'm Dominic Turner
+Dominic Turner
 
+Cybersecurity student building hands-on experience with Linux, networking, server administration, security tooling, and backend development.
 
-## What I’m Working On
+Featured Projects
+ReEntry Job Translator
 
-**ReEntry Job Translator**
+A free tool that helps returning citizens translate prison work assignments into employer-ready resume bullets, transferable skills, and interview language.
 
-A free tool that helps returning citizens translate prison work assignments into employer-ready resume bullets, skills, and interview language.
+Skills: Web Development · AI Integration · Prompt Engineering · Supabase · Product Development
 
+VPS Network & Security Lab
 
-## The Why
+Hands-on Ubuntu server lab covering SSH hardening, UFW, Fail2Ban, Nginx, network monitoring, logging, and security testing.
 
-When I came home after nearly 12 years, I had years of real work experience, but had no idea how to explain it on a resume. ReEntry Job Translator was built to solve that problem. That problem became the foundation for ReEntry Job Translator. The goal is simple: help returning citizens explain the work they already did without having to start from a blank page.
+Skills: Linux · SSH · TCP/IP · Firewalls · Nginx · System Hardening
 
+Cyber Knight Sec Scout
 
-## Tools & Skills I’m Learning
+Java application that checks public DNS records for email-security controls including SPF and DMARC and provides a plain-English assessment.
 
-- Python
-- Django
-- HTML / CSS
-- Basic JavaScript
-- Linux (Ubuntu Server)
-- Nginx
-- SSH, firewalls, system hardening
-- Networking basics (DNS, DHCP, TCP/IP)
-- Active Directory fundamentals
-- SQL
-- Git & GitHub
-- PostgreSQL
-- Flask
+Skills: Java · DNS · SPF · DMARC · JNDI · Object-Oriented Programming
 
+Current Focus
+Cybersecurity fundamentals
+Network administration and troubleshooting
+Linux server administration
+Java and Python
+Homelab infrastructure
+Network+ and security fundamentals
+What You'll Find Here
 
-## What You’ll See in This GitHub
+My repositories document:
 
-- Projects I’m actively building
-- Labs and experiments from networking and security study
-- READMEs written in plain language
-- Mistakes, fixes, and lessons learned along the way
-
-
-I focus on understanding *why* things work, not just how to pass a test.
+What I built
+Why I built it
+How it works
+Problems I encountered
+How I troubleshot them
+Security decisions I made
+What I would improve next
+The Why
 
