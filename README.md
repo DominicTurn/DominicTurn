@@ -15,11 +15,6 @@ Hands-on Ubuntu server lab covering SSH hardening, UFW, Fail2Ban, Nginx, network
 
 Skills: Linux · SSH · TCP/IP · Firewalls · Nginx · System Hardening
 
-Cyber Knight Sec Scout
-
-Java application that checks public DNS records for email-security controls including SPF and DMARC and provides a plain-English assessment.
-
-Skills: Java · DNS · SPF · DMARC · JNDI · Object-Oriented Programming
 
 Current Focus
 Cybersecurity fundamentals
